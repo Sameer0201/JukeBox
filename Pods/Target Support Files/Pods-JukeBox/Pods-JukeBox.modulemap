@@ -1,0 +1,6 @@
+framework module Pods_JukeBox {
+  umbrella header "Pods-JukeBox-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,18 @@
+{
+  "iOS" : [
+    {
+      "hash" : "8ff2c36bdf63ec40839be8179ae1c63d0d1f788cd4bdcd033504727e059705d3",
+      "name" : "LNPopupController"
+    }
+  ],
+  "commitish" : "v2.3.1",
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "Mac" : [
+
+  ]
+}
